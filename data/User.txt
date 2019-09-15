@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2,
+    "username": "abc",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 4,
+    "username": "ayu",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 5,
+    "username": "123",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 6,
+    "username": "123",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 7,
+    "username": "123",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 8,
+    "username": "123",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]

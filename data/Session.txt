@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "session_id": "34lkgs2d2sjlkk2s",
+    "user_id": 2,
+    "expired_time": 1568534862.7425826
+  },
+  {
+    "id": 1,
+    "session_id": "e2se5j35er2g22be",
+    "user_id": 5,
+    "expired_time": 1568540897.202889
+  },
+  {
+    "id": 2,
+    "session_id": "e3sl5e2egg22jgk5",
+    "user_id": 4,
+    "expired_time": 1568541403.2467835
+  },
+  {
+    "id": 3,
+    "session_id": "34rkj4e5lgl5243g",
+    "user_id": 5,
+    "expired_time": 1568541865.9721227
+  },
+  {
+    "id": 4,
+    "session_id": "dke2llkg24edg3sd",
+    "user_id": 5,
+    "expired_time": 1568543209.4205155
+  },
+  {
+    "id": 5,
+    "session_id": "dg435k22ld4lk5k3",
+    "user_id": 5,
+    "expired_time": 1568543494.0284457
+  }
+]
